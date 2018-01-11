@@ -1,2 +1,2 @@
 # hello-world
-creat a repository
+adapt to github
